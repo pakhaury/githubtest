@@ -1,8 +1,5 @@
 VVVVVVVVVVV
 This is Test
-<<<<<<< HEAD
-Merz
-=======
-
 BVBV
->>>>>>> 2d227c48abc944bc530df19b6ac2d3ca1965be01
+Merz
+
